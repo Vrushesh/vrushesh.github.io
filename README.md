@@ -5,6 +5,10 @@ Github Pages Website Repo - set up to allow workshop attendees to fork & create 
 
 All you need is Git & a text editor. I use Visual Studio Code - but sublime, atom, etc are all great as they provide syntax assisting tools. 
 
+## Git
+
+First let's install Git
+
 ### OS X - Homebrew Install
 
 If you use [Homebrew](http://brew.sh/), you can install Git using the following command:
@@ -31,8 +35,12 @@ You'll also want to set up your email address.
 
 Assuming these commands run without errors, you're good to go! Otherwise, you may need to double-check your Git installation & Google is your best friend in this case.
 
-### Download VS Code
+## Visual Studio Code
 Follow instructions here: [Visual Studio Code](https://code.visualstudio.com/learn/get-started/basics)
+
+# Fork this repo
+
+
 
 ## Usage
 
@@ -49,10 +57,3 @@ foobar.pluralize('goose')
 foobar.singularize('phenomena')
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
