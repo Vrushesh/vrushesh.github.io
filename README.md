@@ -3,11 +3,9 @@ Github Pages Website Repo - set up to allow workshop attendees to fork & create 
 
 # Setup
 
-All you need to get started is git & a text editor. I use Visual Studio Code - but sublime, atom, etc are all great as they provide syntax assisting tools. 
+All you need is Git & a text editor. I use Visual Studio Code - but sublime, atom, etc are all great as they provide syntax assisting tools. 
 
-## OS X
-
-### Homebrew
+### OS X - Homebrew Install
 
 If you use [Homebrew](http://brew.sh/), you can install Git using the following command:
 
@@ -19,7 +17,7 @@ You can also [download an installer for Git rom the official web site](https://g
 
 Once you have Git installed, follow the instructions in **Getting Ready**, below.
 
-# Getting Ready
+### Getting Ready with Git
 
 Now that you've got Git installed, let's make sure you can access it, and that it's fully set up for you to use.
 
@@ -32,6 +30,9 @@ You'll also want to set up your email address.
     git config --global user.email "YOUR EMAIL ADDRESS"
 
 Assuming these commands run without errors, you're good to go! Otherwise, you may need to double-check your Git installation & Google is your best friend in this case.
+
+### Download VS Code
+Follow instructions here: [Visual Studio Code](https://code.visualstudio.com/learn/get-started/basics)
 
 ## Usage
 
